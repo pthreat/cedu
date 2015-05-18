@@ -1,0 +1,136 @@
+
+@font-face{
+    font-family:'AktivGrotesk-Light';
+    src:url('../fonts/aktiv_light.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'AktivGrotesk-Regular';
+    src:url('../fonts/aktiv_regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'AlexBrush-Regular';
+    src:url('../fonts/AlexBrush-Regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'Arizonia-Regular';
+    src:url('../fonts/Arizonia-Regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'DrSugiyama-Regular';
+    src:url('../fonts/DrSugiyama-Regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'IndieFlower';
+    src:url('../fonts/IndieFlower.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'LeagueScript';
+    src:url('../fonts/LeagueScript.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'LoversQuarrel-Regular';
+    src:url('../fonts/LoversQuarrel-Regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'Montez-Regular';
+    src:url('../fonts/MOntez-Regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'MrDeHaviland';
+    src:url('../fonts/MrDeHaviland.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'PrincessSofia';
+    src:url('../fonts/PrincessSofia.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'Rancho-Regular';
+    src:url('../fonts/Rancho-Regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'ReenieBeanie';
+    src:url('../fonts/ReenieBeanie.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'Sacramento-Regular';
+    src:url('../fonts/Sacramento-Regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'Satisfy-Regular';
+    src:url('../fonts/Satisfy-Regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'Stalemate-Regular';
+    src:url('../fonts/Stalemate-Regular.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'Zeyada';
+    src:url('../fonts/Zeyada.ttf')
+        format('woff');
+    font-weight:normal;
+    font-style:normal;
+}

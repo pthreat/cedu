@@ -1,0 +1,114 @@
+/******************************************************************************
+Login admin
+******************************************************************************/
+
+div#login_admin{
+ 
+ background-color:#999999;
+ width:600px;
+ margin:0 auto;
+ padding:10px;
+
+}
+
+div#login_admin input{
+ 
+ border:1px solid #cccccc;
+ height:32px;
+ width:180px;
+ font-size:18px;
+
+}
+
+div#login_admin input.boton_login{
+
+ margin:0 auto;
+
+}
+
+
+/******************************************************************************
+Login 
+******************************************************************************/
+
+div#encabezado div#navbar div#login{
+
+	float:right;	
+	padding:5px;
+
+}
+
+div#encabezado div#navbar div#login p{
+
+    font-size:16px;
+    color:#F9F9F9;
+
+}
+
+div#encabezado div#navbar div#login div#iconos{
+
+	clear:both;
+	margin-left:6px;
+
+}
+
+div#encabezado div#navbar div#login div#iconos a{
+
+	border:0px;
+	outline:0;
+	margin-left:10px;
+
+}
+
+div#encabezado div#navbar div#login div#campos_login{
+	padding:23px;
+}
+
+div#encabezado div#navbar div#login div#campos_login input{
+
+	color:#666666;
+	border:0px;
+	height:27px;
+	width:110px;
+	float:left;
+	margin-left:4px;
+	cursor:pointer;
+
+}
+
+div#encabezado div#navbar div#login div#campos_login input.boton_login{
+
+	width:70px;		
+	background-color:#666666;
+	color:#cccccc;
+	text-align:center;
+	height:28px;
+	cursor:pointer;
+
+}
+
+div#encabezado div#navbar div#login div#campos_login input.boton_login:hover{
+
+	background-color:#cccccc;
+	color:#666666;
+
+}
+
+div#encabezado div#navbar div#login div#campos_login input.no_error{
+
+	background-color:#EAFAEC;
+
+}
+
+div#encabezado div#navbar div#login div#campos_login input.error{
+
+	background-color:#FF9191;
+
+}
+
+div#encabezado div#navbar div#login div#soy_empresa ul li{
+	float:left;
+	padding-top:3px;
+}
+
+/***************************************************************************/

@@ -1,0 +1,61 @@
+/* 
+    Document   : formulario
+    Created on : Apr 15, 2013, 9:10:23 PM
+    Author     : Instructor
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+
+div#mensaje{
+    border:1px solid #cccccc;
+}
+
+div#mensaje h2.error{
+    color:red;
+}
+
+div#mensaje h1.ok{
+    color:green;
+}
+
+label{
+    font-size:18px;
+    color:#555555;
+    font-family:Arial;
+}
+
+
+select{
+    border:1px solid #cccccc;
+    width:200px;
+    font-size:14px;
+}
+
+textarea{
+    width:100%;
+    height:200px;
+}
+
+input.confirmar{
+
+    border:1px solid #ececec;
+    font-size:22px;
+    background: -moz-linear-gradient(top,  #ffb76b 0%, #ffa73d 50%, #ff7c00 51%, #ff7f04 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffb76b), color-stop(50%,#ffa73d), color-stop(51%,#ff7c00), color-stop(100%,#ff7f04)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ffb76b 0%,#ffa73d 50%,#ff7c00 51%,#ff7f04 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb76b', endColorstr='#ff7f04',GradientType=0 ); /* IE6-9 */
+    color:#fcfcfc;
+}

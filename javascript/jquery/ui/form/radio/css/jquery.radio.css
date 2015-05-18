@@ -1,0 +1,8 @@
+.has-js .label_check,
+.has-js .label_radio { padding-left: 34px; }
+.has-js label.r_on { background: url(/javascript/jquery/ui/form/radio/img/radio-on.png) no-repeat; }
+.has-js .label_radio { background: url(/javascript/jquery/ui/form/radio/img/radio-off.png) no-repeat; }
+.has-js label.c_on { background: url(/javascript/jquery/ui/form/radio/img/check-on.png) no-repeat; }
+.has-js .label_check { background: url(/javascript/jquery/ui/form/radio/img/check-off.png) no-repeat; }
+.has-js .label_check input,
+.has-js .label_radio input { position: absolute; left: -9999px; }

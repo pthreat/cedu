@@ -1,0 +1,137 @@
+div.menuadmin{
+
+    background-color:#59b4d4;
+    padding:2px;
+    border-radius:2px;
+    margin-top:5px;
+
+}
+
+div.menuadmin ul{
+    list-style-type:none;
+    height:20px;
+    padding:0px;
+    margin:10px;
+}
+
+div.menuadmin ul li{
+
+    display:block;
+    float:left;
+    border-right:1px dotted #cccccc;
+    padding:0px 2% 0px 2%;
+}
+
+div.menuadmin ul li a{
+    text-decoration:none;
+    color:#fcfcfc;
+    text-align:center;    
+}
+
+div.logout{
+	color:#ffffff;
+}
+
+div.encabezado_noticia{
+	padding-bottom:10px;
+	clear:both;
+}
+
+div.encabezado_noticia input{
+	border-radius:5px;
+	margin-left:10px;
+	border:1px solid #ccc;
+	height:32px;
+	font-size:18px;
+}
+
+
+div.encabezado_noticia label{
+	float:left;
+}
+
+input.cargar_noticia{
+	background: rgb(178,225,255); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(178,225,255,1) 0%, rgba(102,182,252,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(178,225,255,1)), color-stop(100%,rgba(102,182,252,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(178,225,255,1) 0%,rgba(102,182,252,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(178,225,255,1) 0%,rgba(102,182,252,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(178,225,255,1) 0%,rgba(102,182,252,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(178,225,255,1) 0%,rgba(102,182,252,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b2e1ff', endColorstr='#66b6fc',GradientType=0 ); /* IE6-9 */
+	border-radius:5px;
+	height:38px;
+	font-size:18px;
+	margin-top:10px;
+	color:#fff;
+	cursor:pointer;
+}
+
+
+
+input.cargar_noticia:hover{
+	background: rgb(178,225,255); /* Old browsers */
+}
+
+div.administrar{
+	height:32px;
+	background-color:#0782C1;
+	border-radius:5px;
+	padding:10px;
+}
+
+div.administrar div.boton{
+	float:left;
+	margin-right:5px;
+}
+
+div.administrar div.boton img{
+	display:block;
+	margin:0 auto;
+}
+
+div.administrar div.boton a{
+	font-size:10px;
+	color:#fff;
+}
+
+a.confirm{
+	text-decoration:none;
+	color:#fff;
+	border-radius:5px;
+	border:1px solid #ccc;
+	padding:5px;
+	background: rgb(180,227,145); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(180,227,145,1) 0%, rgba(97,196,25,1) 50%, rgba(180,227,145,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(180,227,145,1)), color-stop(50%,rgba(97,196,25,1)), color-stop(100%,rgba(180,227,145,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4e391', endColorstr='#b4e391',GradientType=0 ); /* IE6-9 */
+}
+
+a.confirm:hover{
+	background: rgb(180,227,145);
+}
+
+a.cancel{
+	background: rgb(255,48,25); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(255,48,25,1) 0%, rgba(207,4,4,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,48,25,1)), color-stop(100%,rgba(207,4,4,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(255,48,25,1) 0%,rgba(207,4,4,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(255,48,25,1) 0%,rgba(207,4,4,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(255,48,25,1) 0%,rgba(207,4,4,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(255,48,25,1) 0%,rgba(207,4,4,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 ); /* IE6-9 */
+	text-decoration:none;
+	color:#fff;
+	border-radius:5px;
+	border:1px solid #ccc;
+	padding:5px;
+
+}
+
+a.cancel:hover{
+	background: rgb(255,48,25);
+}

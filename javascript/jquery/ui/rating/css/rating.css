@@ -1,0 +1,17 @@
+div.rating{
+
+	text-align:center;
+	width:90%;
+	padding:10px 5px 30px 5px;
+	float:left;
+
+}
+
+div.rating span{
+	float:left;
+	margin-left:10px;
+}
+
+div.rating input{
+	display:none;
+}

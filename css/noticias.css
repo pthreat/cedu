@@ -1,0 +1,137 @@
+div#noticias{
+    font-family:Arial;
+}
+
+div#noticias div.noticia{
+
+	border:1px solid #cccccc;
+	border-width:0px 0px 1px 0px;
+	padding:5px;
+
+}
+
+div#noticias div.noticia div.titulo{
+
+	font-size:14px;
+
+}
+
+div#noticias div.noticia div.copete{
+
+	padding:5px;
+
+}
+
+div#noticias div.noticia div.mas{
+
+	padding:20px 0px 20px 0px;
+
+}
+
+div#noticias div.noticia div.mas a{
+
+	color:#999999;
+}
+
+div#noticias div.noticia div.mas a:hover{
+
+	color:#555555;
+
+}
+
+div#noticias div.noticia div.secciones{
+    
+    background-color:#accf11;
+    border-radius:2px;
+    padding:4px;
+    color:#FFFFFF;
+    font-weight:bold;
+    height:26px;
+}
+
+div#noticias div.noticia div.secciones img{
+    display:block;
+    float:left;
+    width:24px;
+    height:24px;
+    padding-right:8px;
+}
+
+div#noticias div.noticia div.secciones p{
+    display:block;
+    float:left;
+    margin-top:3px;
+}
+
+div#noticias div.noticia div.secciones p a{
+    color:#ffffff;
+    text-decoration:none;
+}
+
+
+div#noticias div.noticia div.fecha{
+
+	font-size:12px;
+	font-weight:bold;
+	margin:6px;
+        float:right;
+        
+
+}
+
+div#noticias div.add{
+    width:100%;
+    padding:1px;
+    background-color:#59b4d4;
+    margin-bottom:3px;
+    border-radius:3px;
+
+}
+
+div#noticias div.add a{
+    text-decoration:none;
+    color:#fcfcfc;
+}
+
+div#noticias div.add a:hover{                             
+    text-decoration:underline;
+}
+
+div#noticias div.add div.content{
+    margin:3%;
+}
+
+div#noticias div.add img{
+
+        width:32px;
+        height:32px;
+        display:block;
+        float:left;
+        padding-right:15px;
+        
+}
+
+div#noticias div.noticia div.opciones {
+        background-color:#59b4d4;
+        border-radius:2px 2px 2px 2px;
+        height:50px;
+        clear:both;
+        padding:1%;
+        display:none;
+}
+
+div#noticias div.noticia div.opciones img{
+        width:32px;
+        height:32px;
+        display:block;
+        float:left;
+}
+
+div#noticias div.noticia div.opciones div.opcion{
+    float:left;
+    padding:5px;
+    font-size:12px;
+}
+div#noticias div.noticia div.opciones div.opcion a{
+    color:#fcfcfc;
+}
